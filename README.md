@@ -1,2 +1,2 @@
 # To-Do_Schedule
-A non-functional website design of a "To do list"
+This is just a website design idea of a to do schedule developed with html & css programming. It has no actual functionality (for now). 
